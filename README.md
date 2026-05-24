@@ -164,6 +164,19 @@ flowchart TD
 The `α`, `β`, `γ` modulation params are zero-initialized so each block starts as an identity — stable early in training.
 
 ---
+## Results
+
+#### Flow Matching on MNIST
+<img width="291" height="234" alt="Screenshot 2026-05-24 at 3 29 40 PM" src="https://github.com/user-attachments/assets/720b2fb2-7069-4603-a562-a2fdfa21f1c8" />
+
+<img width="316" height="249" alt="Screenshot 2026-05-24 at 3 30 50 PM" src="https://github.com/user-attachments/assets/79d22f60-1835-49ae-9a32-bb26aea6c055" />
+
+#### Latent Diffusion DDPM on CelebA
+<img width="298" height="244" alt="Screenshot 2026-05-24 at 3 30 14 PM" src="https://github.com/user-attachments/assets/e7e63715-5584-49fb-b5a3-324f16281209" />
+
+<img width="389" height="296" alt="Screenshot 2026-05-24 at 3 30 38 PM" src="https://github.com/user-attachments/assets/0c1c6e09-6313-446d-bbc7-c38b3d881f6d" />
+
+---
 
 ## Setup
 
